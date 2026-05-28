@@ -89,6 +89,8 @@ MySQL                          Power BI
 
 **Seu Nome**  
 LinkedIn: https://linkedin.com/in/seu-perfil
+
+
 GitHub: https://github.com/seu-usuario
 
 ---
