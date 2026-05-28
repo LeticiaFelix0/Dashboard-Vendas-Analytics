@@ -5,7 +5,7 @@
 
 ---
 
-![Dashboard de Vendas](imagens/Dashboard_de_Vendas.png)
+![Dashboard de Vendas](Dashboard_de_Vendas.png)
 
 ## 🎯 Sobre o Projeto
 
