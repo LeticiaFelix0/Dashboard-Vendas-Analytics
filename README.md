@@ -87,11 +87,12 @@ MySQL                          Power BI
 
 ## 👤 Autor
 
-**Seu Nome**  
-LinkedIn: https://linkedin.com/in/seu-perfil
+**Letícia Felix**
+
+Linkedin: https://www.linkedin.com/in/letícia-barreto-felix-b2a629204?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/LeticiaFelix0
 
 ---
 
